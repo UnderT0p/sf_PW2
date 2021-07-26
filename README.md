@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1-bK-sPxx7DJH9x4tLBl8vmcyOjnQN8ma/view?usp=shari
 Выбор корпоративной тикет-системы:
 
 https://drive.google.com/file/d/10PQ3XR4zGUvREOojW0KIKJNKs-HeNILW/view?usp=sharing
+
+Связка YouGile(с чатами внутри) и BigBlueButton(для конфернций) на данный момент кажется мне хорошим выбором.
